@@ -15,6 +15,12 @@ Site : https://roottoolboxapp.github.io/root-toolbox-support/
 
 ## Support
 
-Contact : **roottoolbox@gmail.com**.
+Vous pouvez signaler un bug directement depuis l’application :
 
-Le partage d’un diagnostic est facultatif. Un contact par e-mail communique l’adresse d’expéditeur au support. Aucun formulaire anonyme n’est actuellement disponible.
+**Paramètres > Support > Signaler un bug**
+
+L’application prépare l’e-mail de support et permet, de façon facultative, de joindre un rapport technique complet (.txt).
+
+Contact direct : **roottoolboxapp@gmail.com**.
+
+Le partage du rapport technique est facultatif. Un contact par e-mail communique l’adresse d’expéditeur au support.
