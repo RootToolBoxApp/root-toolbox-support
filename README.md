@@ -11,8 +11,10 @@ Le code source Android n’est pas contenu dans ce dépôt.
 
 Dans les réglages du dépôt : **Settings → Pages → Deploy from a branch → main → / (root) → Save**.
 
-Adresse prévue après activation : https://roottoolboxapp.github.io/root-toolbox-support/
+Site : https://roottoolboxapp.github.io/root-toolbox-support/
 
 ## Support
 
-Utilisez les tickets de ce dépôt. Ils sont publics : retirez les données personnelles avant de joindre un rapport ou une capture.
+Contact : **roottoolbox@gmail.com**.
+
+Le partage d’un diagnostic est facultatif. Un contact par e-mail communique l’adresse d’expéditeur au support. Aucun formulaire anonyme n’est actuellement disponible.
